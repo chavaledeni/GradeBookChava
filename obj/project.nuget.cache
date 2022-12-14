@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIbNqQuoRwhggAGiJbMyyqKGa1GaARmbZrCigTLjYzAJjEVi9E6J3NeWS8RZQl3vUisQz7SuSKp2qHkYNNZ4ow==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\GradeBook\\GradeBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikola Cavara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Nikola Cavara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
